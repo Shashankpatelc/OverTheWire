@@ -1,2 +1,2 @@
 # OverTheWire
-My OverTheWire practice session and resultd
+My OverTheWire practice session and results
