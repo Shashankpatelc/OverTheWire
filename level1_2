@@ -1,0 +1,9 @@
+step1:
+ssh -p 2220 bandit1@bandit.labs.overthewire.org
+pasword = 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+
+step 2:
+ls
+
+step 3:
+cat ./-
