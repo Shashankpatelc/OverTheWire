@@ -1,6 +1,6 @@
 step 1 :
 ssh -p 2220 bandit3@bandit.labs.overthewire.org
-password = 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+pasword = "Enter the password from you previously got"
 
 step 2 :
 ls 
