@@ -1,8 +1,0 @@
-step 1 : ssh -p 2220 bandit2@bandit.labs.overthewire.org
-password = PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
-
-step 2:
-ls
-
-step 3:
-cat ./'--spaces in this filename--'
