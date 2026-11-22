@@ -19,5 +19,10 @@ OverTheWire/
 │   ├── level1_2
 │   ├── level2_3
 │   ├── level3_4
-│   └── level4_5
+│   ├── level4_5
+│   ├── level5_6
+│   ├── level6_7
+│   ├── level7_8
+│   ├── level8_9
+│   └── level9_10
 └── README.md
