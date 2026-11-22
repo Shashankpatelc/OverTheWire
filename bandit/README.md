@@ -4,9 +4,9 @@ Personal notes, walkthroughs, and solutions for the [OverTheWire](https://overth
 
 ## Wargames
 
-| Wargame | Focus | Status | Directory |
-| :--- | :--- | :--- | :--- |
-| **Bandit** | Linux CLI basics, file manipulation, SSH, permissions | In Progress (Levels 0–5) | [`bandit/`](./bandit) |
+| Wargame | Focus | Status |
+| :--- | :--- | :--- |
+| **Bandit** | Linux CLI basics, file manipulation, SSH, permissions | In Progress (Levels 0–5) |
 
 ## Repository Structure
 
