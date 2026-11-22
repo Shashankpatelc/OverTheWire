@@ -1,0 +1,19 @@
+step 1:
+
+ssh -p 2220 bandit4@bandit.labs.overthewire.org
+password = xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+
+step 2:
+ls
+
+step 3:
+cd inhere/
+
+step 4:
+ls
+
+step 5:
+find . -type f ! -executable -exec file {} + | grep "text"
+
+step 6:
+cat ./-file07
